@@ -46,11 +46,11 @@ class Cat {
   console.log(cat.speak()); 
   
   const dog = new Dog("Sadam", "male");
-  console.log(dog.speak()); // "Buddy says woof!"
+  console.log(dog.speak()); 
   
   const maleBird = new Bird("Polly", "male");
-  console.log(maleBird.speak()); // "It's me! Polly, the parrot!"
+  console.log(maleBird.speak()); 
   
   const femaleBird = new Bird("Tweety", "female");
-  console.log(femaleBird.speak()); // "Tweety says squawk!"
+  console.log(femaleBird.speak()); 
   
